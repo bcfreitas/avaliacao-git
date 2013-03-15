@@ -1,6 +1,7 @@
 package projecteuler;
 
 import static org.junit.Assert.*;
+import projecteuler.problems.*;
 
 import org.junit.Test;
 
